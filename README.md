@@ -1,18 +1,18 @@
-<h1 align="center"> Bug-Zapper </h1>
+<h1 align="center"> Recruit-Me </h1>
 <h3 align="center"> ***Currently Under Construction*** </h3>
 <h4 align="center"> Wireframing and Design </h4>
 <p>
-Welcome to the Bug-Zapper web application! This application provides organizations with a simple, yet effective software ticket management system.     </p>
+Welcome to the Recruit-Me web application! This application provides HR recruiters with a CRM system to assist in the recruitment of new prospective employee.    </p>
 
 ## Links
 
-- [Live](https://kris-syevens.github.io/Bug-Zapper)
+- [Live](https://kris-syevens.github.io/Recruit-Me)
 
 
 
 ## Screenshots
 
-![Home Page](images/Preview.png)
+![Home Page](Assets/Preview.png)
 
 
 
